@@ -1,0 +1,14 @@
+<html>
+<title>DairyStars·中文版·普通日记</title>
+  <body>
+    <h1>DiaryStars·中文版·普通日记</h1>
+    <h2>使用权限：仅限家庭</h2>
+    <h4>该网页由<a href="http://cppplanet.github.io/">Cppplanet</a>提供</h4>
+    <h4>网页版本：官方版1.1</h4>
+    <h4><a href="https://github.com/TouristDream">友情链接：访问我的Github账号！</a></h4>
+    <br>
+    <h4><a href="http://dairystars.github.io/HomePage">退回主页面！</a></h4>
+    <h4>即将推出日记书写！</h4>
+    <h4>即将推出日记历史！</h4>
+  </body>
+</html>
